@@ -1,0 +1,40 @@
+.pic_me{
+    width: 500px;
+    height: 340px;
+}
+.body1{
+    background-image: url("image/autumn.jpg");
+    background-size: cover;
+
+}
+
+.me{
+    border: 6px dashed;
+    width: 500px;
+    height: 340px;
+    display: inline-block;
+}
+
+.bio{
+    float: right;
+    border: 6px dashed;
+    border-radius: 15px 50px;
+    background: rgba(149,171,207,0.8);
+    width: 487px;
+    height: 370px;
+}
+#h1_1{
+    font-size: 50px;
+    text-decoration: underline;
+}
+#p_1{
+    font-size: 20px;
+}
+.to_intro{
+    display: inline-block;
+}
+.links{
+    color:black;
+    font-size: 60px;
+}
+
