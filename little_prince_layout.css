@@ -1,0 +1,29 @@
+#pic1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px
+}
+
+#prince_text{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+
+.under{
+    text-decoration: underline;
+}
+
+.orange{
+    background: orange;
+}
+.red_bold{
+    color:red;
+    font-weight:bold;
+}
+#link1{
+    color:black;
+    font-size: 40px;
+}
