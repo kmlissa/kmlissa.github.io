@@ -1,0 +1,38 @@
+.body2{
+    background-image: url("image/177583.jpg");
+    background-size: cover;
+}
+
+.intro{
+    border-radius: 15px 50px;
+    background: rgba(213,222,235,0.8);
+    width: 580px;
+    height: 750px;
+    display: inline-block
+}
+
+#h1_1{
+    font-size:50px;
+    text-decoration:underline;"
+}
+
+.span1{
+    color:purple;
+}
+
+.sides{
+    display: inline-block;
+    float: right;
+    width: 400px;
+    height: 300px
+}
+
+.side_img{
+    width:400px;
+    height:300px;
+}
+
+#to_index{
+    color:black;
+    font-size:60px;
+}
